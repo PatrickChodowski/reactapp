@@ -1,0 +1,22 @@
+1) install nodejs
+ubuntu: sudo apt install nodejs (adds npm)
+
+
+2) sudo npm i -g create-react-app
+
+
+
+3) 3 extensions for react - simple react snippets
+
+
+
+4) create app and run it
+create-react-app react-app 
+
+
+cd react-app/
+npm start
+
+
+
+5) install react developer tools for chrome
